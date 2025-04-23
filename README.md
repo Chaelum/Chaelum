@@ -1,8 +1,9 @@
 <h1 align="center">Hey! Welcome to my profile!</h1>
+<img align="right" src="main.gif" width="195"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=C8CD06&width=435&lines=Hello+World;hey!+its+Chaleum" alt="Typing SVG" /></a>
-<img align="right" src="main.gif" width="240"/>
 
-- 👋 Hi! My name is Ege
+
+- 🌐 Hi! My name is E
 - 🔭 I’m currently working on A Saas Project
 - 🌱 I’m currently learning Golang
 
